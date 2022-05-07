@@ -1,0 +1,1 @@
+{"version":3,"file":"getComments.js","sourceRoot":"","sources":["../../src/apis/getComments.ts"],"names":[],"mappings":"AAAA,KAAK,UAAU,eAAe;IAC5B,MAAM,IAAI,GAAG,MAAM,OAAO,CAAC,OAAO,CAAC,oCAAoC,EAAE;QACvE,KAAK,EAAE,SAAS;QAChB,IAAI,EAAE,eAAe;KACtB,CAAC,CAAC;AACL,CAAC"}
